@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Menu2
 nav_order: 3
 has_child: true
 permalink: /docs/menu2
