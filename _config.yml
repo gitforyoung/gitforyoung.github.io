@@ -4,6 +4,7 @@ title: Blog for Young
 description: This blog is Young's Github blog.
 baseurl: "/"
 url: "https://gitforyoung.github.io"
+logo: "/assets/images/gitforyoung-icon.png"
 
 permalink: pretty
 
