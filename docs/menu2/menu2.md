@@ -2,7 +2,7 @@
 layout: default
 title: Menu2
 nav_order: 3
-has_child: true
+has_children: true
 permalink: /docs/menu2
 ---
 
