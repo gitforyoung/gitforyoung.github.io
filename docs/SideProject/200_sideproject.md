@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Menu2
-nav_order: 3
+title: Side Project
+nav_order: 200
 has_children: true
-permalink: /docs/menu2
+permalink: /docs/SideProject
 ---
 
-# Menu2
+## Side Project 내용 정리
 
-Menu2 page test
+Python, C++
 
 ---
