@@ -1,10 +1,10 @@
 remote_theme: just-the-docs/just-the-docs
 
-title: Young's Github Blog
+title: Wooyoung Kim
 description: This blog is Young's Github blog.
 baseurl: "/"
 url: "https://gitforyoung.github.io"
-logo: "/assets/images/gitforyoung-icon.png"
+# logo: "/assets/images/gitforyoung-icon.png"
 
 permalink: pretty
 
