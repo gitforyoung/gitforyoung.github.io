@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Swift Study
-nav_order: 100
+nav_order: 2
 permalink: /docs/SwiftStudy
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Python
-nav_order: 201
-parent: 200_sideproject
+nav_order: 1
+parent: Side Project
 ---
 
 ## Python
