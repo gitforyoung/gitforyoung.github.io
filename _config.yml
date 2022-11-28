@@ -1,10 +1,10 @@
 remote_theme: just-the-docs/just-the-docs
 
-title: Blog for Young
+title: Young's Github Blog
 description: This blog is Young's Github blog.
 baseurl: "/"
 url: "https://gitforyoung.github.io"
-logo: "/assets/images/gitforyoung-icon.png"
+# logo: "/assets/images/gitforyoung-icon.png"
 
 permalink: pretty
 
@@ -30,9 +30,6 @@ exclude:
    - package-lock.json
    - Rakefile
    - README.md
-
-# Set a path/url to a logo that will be displayed instead of the title
-#logo: "/assets/images/just-the-docs.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -76,21 +73,21 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-    "on Github":
+    "Visit Github":
         - "//github.com/gitforyoung"
 
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true
 
 # Sort order for navigation links
 nav_sort: case_insensitive # default, equivalent to nil
 #nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
-nav_external_links:
-  - title: Young on GitHub
-    url: https://github.com/gitforyoung
+# nav_external_links:
+#   - title: Young on GitHub
+#     url: https://github.com/gitforyoung
 
 # Footer content
 # appears at the bottom of every page's main content
@@ -104,7 +101,7 @@ back_to_top_text: "Back to top"
 gh_edit_link: false # show or hide edit this page link
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
-color_scheme: nil
+color_scheme: young
 
 callouts_level: quiet # or loud
 callouts:
