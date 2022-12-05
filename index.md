@@ -6,7 +6,6 @@ description: "description"
 permalink: /
 ---
 
-#Welcome to github.io
-{: .fs-8 }
+# Young's GitHub Blog
 
 ---
