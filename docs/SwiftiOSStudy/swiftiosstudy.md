@@ -2,6 +2,7 @@
 layout: default
 title: Swift & iOS Study
 nav_order: 2
+has_children: true
 permalink: /docs/SwiftiOSStudy
 ---
 
