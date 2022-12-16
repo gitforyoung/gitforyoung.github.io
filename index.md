@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: GitForYoung
 nav_order: 1
 description: "description"
 permalink: /
@@ -15,6 +15,4 @@ permalink: /
 Hello,<br/>
 I am a Mechanical Engineer, and I personally study programming.
 This blog is to organize and share the contents what I have studied and useful information that I have learned while designing machines.<br/>
-Thank you.   
-
----
+Thank you.

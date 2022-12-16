@@ -6,8 +6,8 @@ has_children: true
 permalink: /docs/SideProject
 ---
 
-## Side Project 내용 정리
+# Side Project 내용 정리
 
-Python, C++
+Python, JS/CSS
 
 ---
