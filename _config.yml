@@ -146,8 +146,8 @@ compress_html:
   startings: []
   blanklines: true
   profile: false
-  # ignore:
-  #   envs: all
+  ignore:
+    envs: all
 
 # LaTeX rendering via "katex" (KaTeX, default) or "mathjax" (MathJax) or "none" / "off" (NO rendering)
 latex: katex
