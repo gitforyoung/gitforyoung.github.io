@@ -24,6 +24,7 @@ grand_parent: Swift & iOS Study
 
 ## 정의
 구조는 둘다 비슷하다. 첫글자는 대문자로 하여 구분한다.
+
 ```swift
 struct SomeStructure {
     // code
@@ -35,6 +36,7 @@ class SomeClass {
 
 ## 인스턴스 생성
 인스턴스 생성 및 초기화도 비슷하다.
+
 ```swift
 let someStructure = SomeStructure()
 let someClass = SomeClass()
@@ -42,6 +44,7 @@ let someClass = SomeClass()
 
 ## property 접근
 점으로 구분하여 접근가능하고, 변수에 값 할당 가능하다.
+
 ```swift
 someStructure.width
 someClass.height = 100
@@ -49,6 +52,7 @@ someClass.height = 100
 
 ## struct와 enum은 값 타입
 값 타입은 변수 또는 상수에 할당되거나 함수에 전달될 때 값이 **복사**된다.
+
 ```swift
 let hd = Resolution(width: 1920, height: 1080)
 var cinema = hd
@@ -58,6 +62,7 @@ cinema.width = 2048
 
 ## class은 참조 타입
 참조 타입은 변수 또는 상수에 할당되거나 함수에 전달될 때 복사되지 않고, 동일한 기존의 인스턴스에 대한 **참조**가 사용된다.
+
 ```swift
 let tenEighty = VideoMode()
 tenEighty.frameRate = 25.0
