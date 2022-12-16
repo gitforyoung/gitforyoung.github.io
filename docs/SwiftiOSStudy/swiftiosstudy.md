@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Swift Study
+title: Swift & iOS Study
 nav_order: 2
-permalink: /docs/SwiftStudy
+permalink: /docs/SwiftiOSStudy
 ---
 
-# **Swift Study 내용 정리**
+# **Swift & iOS Study 내용 정리**
 
 ## **Swift Study repository**
 [repository link](https://github.com/gitforyoung/swiftiosstudy)
@@ -14,6 +14,7 @@ permalink: /docs/SwiftStudy
 - (도서) [Do it! 스위프트로 아이폰 앱 만들기 (6판)](http://www.yes24.com/Product/Goods/107679689)
 - (강의) [인프런 - 개발하는 정대리 스위프트 기초 문법](https://www.inflearn.com/course/정대리-스위프트-기초/dashboard)
 - (강의) [Sololearn - Swift 4](https://www.sololearn.com/learning/1075)
+- (강의) [Udemy - iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 - (블로그) [Pingu님 블로그 - class와 structure의 차이](https://icksw.tistory.com/271)
 - (블로그) [김준오님 블로그 - ARC란](https://velog.io/@kjo1130/ARC%EB%9E%80)
 - (블로그) [Hyunddy님 블로그 - Retain Cycle, weak self](https://hyunndyblog.tistory.com/154)
@@ -28,6 +29,5 @@ permalink: /docs/SwiftStudy
 - (도서) [혼자 공부하는 컴퓨터구조 + 운영체제](http://www.yes24.com/Product/Goods/111378840)
 - (도서) [쓰면서 익히는 알고리즘과 자료구조](http://www.yes24.com/Product/Goods/98828718)
 - (강의) [부스트코스 - 모두를 위한 컴퓨터 과학(cs50 2019)](www.boostcourse.org/cs112)
-- (강의) [Udemy - iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 
 ---
