@@ -31,4 +31,13 @@
 
 {% endif %}
 
+{% if site.search_enabled != false %}
+  <script type="text/javascript" src="{{ '/assets/js/vendor/lunr.min.js' | relative_url }}"></script>
+  <script type="text/javascript" src="{{ '/assets/js/vendor/lunr.stemmer.support.min.js' | relative_url }}"></script>
+  <script type="text/javascript" src="{{ '/assets/js/vendor/lunr.multi.min.js' | relative_url }}"></script>
+  <script type="text/javascript" src="{{ '/assets/js/vendor/tinyseg.js' | relative_url }}"></script>
+  <script type="text/javascript" src="{{ '/assets/js/vendor/lunr.ko.min.js' | relative_url }}"></script>
+{% endif %}
+
 <link rel="shortcut icon" type="image/png" href="../assets/images/young-favicon.png">
+
