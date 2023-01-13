@@ -10,8 +10,7 @@ permalink: /docs/Books/Itdictionary
 # **IT 5분 잡학사전 **
 
 `#`노마드북클럽 `#`노마드코더스 `#`TIL   
-[노마드코더스 챌린지]("https://nomadcoders.co/challenges")
-
+[노마드북클럽 - IT 5분 잡학사전](https://nomadcoders.co/c/it-dictionary/lobby)
 
 ---
 
