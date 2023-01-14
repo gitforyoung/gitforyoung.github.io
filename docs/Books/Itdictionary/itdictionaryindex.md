@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IT Dictionary Intro
+title: IT Dictionary
 nav_order: 1
 parent: Books
 has_children: true

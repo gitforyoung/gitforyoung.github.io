@@ -2,9 +2,9 @@
 layout: default
 title: Day 1
 nav_order: 1
-parent: IT Dictionary Intro
+parent: IT Dictionary
 has_children: false
-permalink: /docs/Books/Itdictionary
+permalink: /docs/Books/Itdictionary/post
 ---
 
 # **IT 5분 잡학사전**
