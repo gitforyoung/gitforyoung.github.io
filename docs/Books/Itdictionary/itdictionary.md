@@ -16,7 +16,7 @@ permalink: /docs/Books/Itdictionary
 
 <details>
 <summary style="color:grey"><b>Day 1 접기/펼치기</b></summary>
-<div markdow="1">
+<div markdown="1">
 
 ## **Day 1 - 책 인증**
 
