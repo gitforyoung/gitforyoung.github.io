@@ -16,6 +16,7 @@ permalink: /docs/Books/Itdictionary
 
 <details>
 <summary style="color:grey"><b>Day 1 접기/펼치기</b></summary>
+<div markdow="1">
 
 ## **Day 1 - 책 인증**
 
@@ -23,8 +24,8 @@ permalink: /docs/Books/Itdictionary
 
 <img src="https://raw.githubusercontent.com/gitforyoung/gitforyoung.github.io/main/docs/Books/Itdictionary/img/books-itdic-day1-01.png" width=300 alt="책인증사진"/>
 
+</div>
 </details>
-<br/>
 
 ## **Day 2 - TIL**
 
