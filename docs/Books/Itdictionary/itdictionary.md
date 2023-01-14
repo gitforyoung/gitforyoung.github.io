@@ -4,8 +4,6 @@ title: Day 1
 nav_order: 1
 parent: IT Dictionary
 grand_parent: Books
-has_children: false
-permalink: /docs/Books/Itdictionary
 ---
 
 # **IT 5분 잡학사전**

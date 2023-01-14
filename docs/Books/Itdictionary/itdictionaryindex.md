@@ -4,7 +4,7 @@ title: IT Dictionary
 nav_order: 1
 parent: Books
 has_children: true
-permalink: /docs/Books/Itdictionary
+permalink: /docs/Books/ItdictionaryIndex
 ---
 
 # **IT 5분 잡학사전**
