@@ -12,6 +12,6 @@ permalink: /docs/Books/ItdictionaryIndex
 \#북클럽 \#TIL \#노마드코더스 \#노마드북클럽 \#노개북   
 [노마드북클럽 - IT 5분 잡학사전](https://nomadcoders.co/c/it-dictionary/lobby)
 
----
+<br/>
 
 노마드코더스의 챌린지에서 진행하는 북클럽에 참여하여 매일 책을 읽고 글을 남기고 있습니다.

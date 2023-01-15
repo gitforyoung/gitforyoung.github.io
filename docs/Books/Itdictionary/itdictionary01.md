@@ -12,7 +12,7 @@ permalink: /docs/Books/Itdictionary2
 \#북클럽 \#TIL \#노마드코더스 \#노마드북클럽 \#노개북   
 [노마드북클럽 - IT 5분 잡학사전](https://nomadcoders.co/c/it-dictionary/lobby)
 
----
+<br/>
 
 ## **Day 2 - TIL**
 
