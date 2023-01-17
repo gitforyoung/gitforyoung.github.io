@@ -1,3 +1,13 @@
+---
+layout: default
+title: Thinking Fast&Slow
+nav_order: 1
+parent: Books
+has_children: false
+permalink: /docs/Books/ThinkingFastSlow
+---
+
+# 글 작성 중... 책 읽는 중...
 
 # **생각에 관한 생각(Thinking Fast and Slow)**
 
