@@ -1,6 +1,3 @@
----
-글 작성중...
----
 
 # **생각에 관한 생각(Thinking Fast and Slow)**
 
