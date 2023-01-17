@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Thinking Fast&Slow
-nav_order: 1
+nav_order: 2
 parent: Books
 has_children: false
 permalink: /docs/Books/ThinkingFastSlow
