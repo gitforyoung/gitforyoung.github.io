@@ -18,7 +18,7 @@ permalink: /docs/Books/Itdictionary5
 
 ## **Day 5 - TIL**
 
-***2023.01.15***
+***2023.01.17***
 
 ### **Episode 11 ~ Episode 15 (p.70 ~ p.95)**
 - 라이브러리와 프레임워크
